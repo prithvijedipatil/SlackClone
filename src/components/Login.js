@@ -54,5 +54,10 @@ export const LoginInnerContainer = styled.div`
     background-color: var(--slack-color);
     color: white;
     padding: 18px 25px;
+    &:hover {
+      color:white;
+      background-color:#59005b;
+    }
   }
+
 `;
